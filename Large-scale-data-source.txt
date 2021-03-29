@@ -1,0 +1,16 @@
+
+Sources of Large-Scale Data Sets:
+
+-----------------------------------------------------------------------------------------
+1. DNA data set. Resource \citep{hsu2002comparison}: 
+        
+ https://www.csie.ntu.edu.tw/~cjlin/libsvmtools/datasets/multiclass.html#dna
+-----------------------------------------------------------------------------------------        
+2. GSAD: Gas Sensor Array Drift Data Set (batch 5). Resource \citep{vergara2012chemical}:
+        
+https://archive.ics.uci.edu/ml/datasets/Gas+Sensor+Array+Drift+Dataset
+-----------------------------------------------------------------------------------------
+3. HARwS: Human Activity Recognition with Smartphones data set. Resource \citep{anguita2013public}:
+        
+https://www.kaggle.com/uciml/human-activity-recognition-with-smartphones
+-----------------------------------------------------------------------------------------
